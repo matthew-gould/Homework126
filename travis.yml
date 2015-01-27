@@ -1,4 +1,0 @@
-languge: ruby
-rvm:
-	- 2.2.0
-script: "ruby triangles.rb"
